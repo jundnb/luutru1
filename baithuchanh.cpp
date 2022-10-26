@@ -1,6 +1,6 @@
 #include<stdio.h>
   int main()
   
-  { printf("/n hesolo hesoli" );
+  { printf("/n hesolo hesoliiiiii" );
   return 0;
   }
